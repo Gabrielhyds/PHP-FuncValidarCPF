@@ -37,7 +37,7 @@
 
 				<div class="wrap-input100 validate-input" data-validate="Digite apenas números">
 					<span class="label-input100">Seu CPF</span>
-					<input class="input100" type="text" name="cpf" placeholder="Digite seu CPF">
+					<input class="input100" type="text" name="cpf" placeholder="Digite seu CPF" required="">
 					<span class="focus-input100"></span>
 				</div>
 				<div class="container-contact100-form-btn">
